@@ -62,3 +62,6 @@ To customize the logo, replace the image file at `/images/evmos-dao-logo-white.p
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+![image](https://github.com/user-attachments/assets/78af0b96-00ec-4335-b494-b77e160a95b5)
