@@ -14,12 +14,12 @@ This React application generates custom paystubs for Evmos DAO contributors. It 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/evmos-dao-paystub-generator.git
+   git clone https://github.com/your-username/Paystub-Generator.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd evmos-dao-paystub-generator
+   cd Paystub-Generator
    ```
 
 3. Install dependencies:
