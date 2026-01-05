@@ -14,7 +14,7 @@
     "framer-motion": "11.3.24",
     "@chakra-ui/icons": "2.1.1",
     "lucide-react": "0.427.0",
-    "jspdf": "3.0.2",
+    "jspdf": "4.0.0",
     "jspdf-autotable": "3.8.2",
     "html2canvas": "1.4.1"
   },
